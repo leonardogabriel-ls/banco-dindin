@@ -57,16 +57,6 @@ src/
 
 ---
 
-## 🔐 Autenticação
-
-A API utiliza autenticação via token JWT.  
-Todas as rotas privadas exigem envio do token no header da requisição:
-
-```http
-Authorization: Bearer <seu_token_aqui>
-```
-
----
 
 ## 🧾 Endpoints
 
