@@ -30,33 +30,6 @@ O objetivo do projeto é gerenciar transações financeiras com categorias perso
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-src/
-│
-├── controllers/
-│   ├── usuario.js
-│   ├── categoria.js
-│   └── transacao.js
-│
-├── middlewares/
-│   ├── autenticarUsuario.js
-│   └── validarDados.js
-│
-├── database/
-│   ├── conexao.js
-│   └── script.sql
-│
-├── rotas/
-│   └── rotas.js
-│
-├── index.js
-└── .env
-```
-
----
-
 
 ## 🧾 Endpoints
 
